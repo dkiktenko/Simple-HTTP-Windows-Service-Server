@@ -1,6 +1,6 @@
 ﻿namespace HTTP_Server_Service
 {
-    partial class Service1
+    partial class Service
     {
         /// <summary> 
         /// Required designer variable.
